@@ -81,7 +81,7 @@ Externalize means that Vite will bypass the package to native Node. Externalized
 - **Type:** `(string | RegExp)[]`
 - **Default:** `[]`
 
-Vite will process inlined modules. This could be helpful to handle packages that ship `.js` in ESM format (that Node can't handle).
+Vite will process inlined modules. This could be helpful to handle packages that ship `.js` in ESM format (that Node can't handle)
 
 #### deps.fallbackCJS
 
